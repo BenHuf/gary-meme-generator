@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+
+.gary {
+  background-image: url('./images/IMG_2528.JPG');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 374px;
+  height: 374x;
+}
+
+.canvas-container {
+  height: 100vh;
+  width: 100vw;
+}
